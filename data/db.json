@@ -8,22 +8,6 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
-    },
-    {
       "id": "dc-flash",
       "superhero": "Flash",
       "publisher": "DC Comics",
@@ -166,6 +150,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "zmFyBgy",
+      "superhero": "David",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Gordon Freeman",
+      "first_appearance": "Udemy 2015 #1",
+      "characters": "BTK",
+      "alt_img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/daf1bb7d-a169-4d23-9c87-d366dd55c308/d5j27q3-5d4a2e21-ed11-45e6-8302-bbf1fabbb974.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RhZjFiYjdkLWExNjktNGQyMy05Yzg3LWQzNjZkZDU1YzMwOFwvZDVqMjdxMy01ZDRhMmUyMS1lZDExLTQ1ZTYtODMwMi1iYmYxZmFiYmI5NzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.l2USU9Ti4IabD8pO5U_w_6UCCDrqjVo5rGLJ2R_fBrA"
     }
   ]
 }
